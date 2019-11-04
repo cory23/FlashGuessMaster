@@ -1,1 +1,3 @@
 # FlashGuessMaster
+
+If there are any problems or errors in our application, please feel free to contact us or comment here. E-mail:tamerakoltzgi1@mail.com
